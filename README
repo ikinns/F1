@@ -1,0 +1,10 @@
+This is a simple Go (golang) program to scan the Wikipedia pages about Formula 1 racing. It finds all Wikitables
+in the page and write the columns and rows to a csv file.
+
+It uses @github.com/PuerkitoBio/goquery
+
+It was written after reading the Packt Publishing book "Go Web scraping - Quick Start Guide" by Victor Smith
+
+I have included in this repository the output files from every F1 year from 1950 to 2019 after China.
+This is the first 1000 races.
+
