@@ -1,5 +1,5 @@
-This is a simple Go (golang) program to scan the Wikipedia pages about Formula 1 racing. It finds all Wikitables
-in the page and write the columns and rows to a csv file.
+This is a simple Go (golang) program to scan the Wikipedia pages about Formula 1 racing. It finds all wikitable tables
+in the page and writes  the columns and rows to a csv file.
 
 It uses @github.com/PuerkitoBio/goquery
 
